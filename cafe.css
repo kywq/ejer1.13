@@ -1,0 +1,16 @@
+html{
+    background-color:#F4E2CC;
+}
+h1.estilo{
+    color: #630C0F;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img.indice{
+    float: right;
+}
+p.indice{
+   float: left;
+
+}
