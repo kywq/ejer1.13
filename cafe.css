@@ -7,10 +7,24 @@ h1.estilo{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-img.indice{
+img.carta{
     float: right;
 }
-p.indice{
-   float: left;
-
+p.carta{
+    float: left;
+    font-size: 25px;
+}
+img.cafe{
+    float: center;
+}
+p.cafe{
+    float: left;
+    font-size: 25px;
+}
+img.contacto{
+    float: left;
+}
+p.contacto{
+    float: left;
+    font-size: 25px;
 }
